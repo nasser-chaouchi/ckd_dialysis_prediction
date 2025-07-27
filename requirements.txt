@@ -4,3 +4,6 @@ joblib
 pandas
 numpy
 xgboost
+matplotlib
+seaborn
+scipy
