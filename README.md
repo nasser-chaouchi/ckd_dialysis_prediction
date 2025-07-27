@@ -68,7 +68,7 @@ Two binary classification tasks were addressed:
 We evaluated the following models:
 
 - Logistic Regression  
-- Random Forest 🌲  
+- Random Forest 
 - Gradient Boosting  
 - K-Nearest Neighbors  
 - XGBoost  
