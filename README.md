@@ -1,4 +1,4 @@
-# Chronic Kidney Disease & Dialysis Prediction 🧬🩺
+# Chronic Kidney Disease & Dialysis Prediction
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-Enabled-red?logo=streamlit)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
