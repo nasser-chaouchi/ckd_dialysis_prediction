@@ -13,7 +13,7 @@ This project aims to **predict Chronic Kidney Disease (CKD)** and **assess dialy
 
 👉 [**Try the app online:**](https://kidneydiseaserisk-ztfzun65jllcekaongmccj.streamlit.app/)
 
-<img width="498" height="832" alt="image" src="https://github.com/user-attachments/assets/65a0d9e5-88b4-43be-8895-8a8e1375ab4b" />
+![Streamlit Interface](images/Interface_Screenshot.png)
 
 
 ---
