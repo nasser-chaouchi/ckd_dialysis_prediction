@@ -11,14 +11,14 @@ This project aims to **predict Chronic Kidney Disease (CKD)** and **assess dialy
 - A **Streamlit app** for interactive risk prediction
 - A clean, interpretable codebase and notebook
 
-👉 [**Try the app online:**](https://kidneydiseaserisk-ztfzun65jllcekaongmccj.streamlit.app/)
+[**Try the app online:**](https://kidneydiseaserisk-ztfzun65jllcekaongmccj.streamlit.app/)
 
 ![Streamlit Interface](images/Interface_Screenshot.png)
 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 - `dataset/` – kidney_disease_dataset.csv
 - `kidney_disease_risk_classification.ipynb` – Notebook with full analysis & modeling
@@ -29,7 +29,7 @@ This project aims to **predict Chronic Kidney Disease (CKD)** and **assess dialy
 
 ---
 
-## ⚙️ How to Run the Project Locally
+## How to Run the Project Locally
 
 ### 1. Clone the Repository
 
@@ -58,7 +58,7 @@ streamlit run app.py
 ```
 
 
-## 🧪 ML Models Used
+## ML Models Used
 
 Two binary classification tasks were addressed:
 
@@ -75,14 +75,14 @@ We evaluated the following models:
 
 After evaluation, **Random Forest** was selected for both tasks due to:
 
-- ✅ High F1-macro scores  
-- ✅ Balanced performance across classes  
-- ✅ Robustness to outliers and feature scaling  
-- ✅ Interpretability through feature importance  
+- High F1-macro scores  
+- Balanced performance across classes  
+- Robustness to outliers and feature scaling  
+- Interpretability through feature importance  
 
 ---
 
-## 📊 Performance Summary
+## Performance Summary
 
 ### 🔹 CKD Classification
 
@@ -99,7 +99,7 @@ After evaluation, **Random Forest** was selected for both tasks due to:
 
 ---
 
-### 🔸 Dialysis Need Prediction
+### Dialysis Need Prediction
 
 | Model                | F1-score (macro) |
 |----------------------|------------------|
@@ -114,7 +114,29 @@ After evaluation, **Random Forest** was selected for both tasks due to:
 
 ---
 
-## 🛠️ Built With
+
+## Business Impact
+
+Chronic Kidney Disease is a major global health challenge, with millions of patients requiring costly long-term care.  
+This project demonstrates how machine learning models can support:
+
+- **Early detection** of CKD for timely intervention  
+- **Prediction of dialysis needs** to anticipate hospital resources  
+- **Decision support** for healthcare professionals  
+
+Such predictive models highlight the potential of **AI-assisted healthcare**, reducing risks and optimizing treatment strategies.
+
+---
+
+## Disclaimer
+
+**Important Notice**  
+This project and the deployed application are intended **solely for educational and research purposes**.  
+They must not be used as a substitute for professional medical advice, diagnosis, or treatment.  
+Always consult qualified healthcare providers for medical concerns.
+
+
+## Built With
 
 - Python  
 - scikit-learn  
@@ -125,15 +147,15 @@ After evaluation, **Random Forest** was selected for both tasks due to:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Nasser Chaouchi**  
-🎓 Machine Learning & Data Science  
-🌐 [LinkedIn](https://www.linkedin.com/in/nasser-chaouchi/)
+Machine Learning & Data Science  
+[LinkedIn](https://www.linkedin.com/in/nasser-chaouchi/)
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
